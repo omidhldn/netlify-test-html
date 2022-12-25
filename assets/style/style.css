@@ -1,0 +1,21 @@
+h1 {
+  line-height: 85vh;
+  text-align: center;
+  color: orangered;
+
+}
+
+img {
+  width: 50vw;
+  height: auto;
+  display: block;
+  margin: 50px auto;
+}
+
+p{
+  direction: rtl;
+  justify-content: justify;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 2rem;
+}
